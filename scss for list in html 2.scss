@@ -1,0 +1,20 @@
+$color : darkviolet;
+$fonts : 20px;
+p{
+    font-size: $fonts;
+    color: $color;
+}
+ul{
+    font-size: $fonts;
+    color: $color;
+}
+div{
+    font-size: 30px;
+    font-weight: bold;
+    p{
+        color: red;
+    }
+    ul{
+        color: green;
+    }
+}

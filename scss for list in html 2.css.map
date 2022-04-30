@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,CAAC,CAAA;EACG,SAAS,EAFJ,IAAI;EAGT,KAAK,EAJA,UAAU;CAKlB;;AACD,AAAA,EAAE,CAAA;EACE,SAAS,EANJ,IAAI;EAOT,KAAK,EARA,UAAU;CASlB;;AACD,AAAA,GAAG,CAAA;EACC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CAOpB;;AATD,AAGI,GAHD,CAGC,CAAC,CAAA;EACG,KAAK,EAAE,GAAG;CACb;;AALL,AAMI,GAND,CAMC,EAAE,CAAA;EACE,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "scss for list in html 2.scss"
+    ],
+    "names": [],
+    "file": "scss for list in html 2.css"
+}

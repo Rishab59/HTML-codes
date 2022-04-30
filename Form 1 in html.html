@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Form 1 in html</title>
+    </head>
+    <body>
+        <form>
+            <div>
+                <input type="text" placeholder="Full name" name="name">
+                <input type="password" name="password" placeholder="password">
+            </div>
+            <div>
+                What's your favorite color ?
+                <input name="color" type="radio" value="Red">Red
+                <input name="color" type="radio" value="Green">Green
+                <input name="color" type="radio" value="Blue">Blue
+                <input name="color" type="radio" value="Yellow">Yellow
+                <input name="color" type="radio" value="Other">Other
+            </div>
+            <div>
+                Are you a Marvel Fan ?
+                <input name="Option" placeholder="Enter you option" list="option">
+                <datalist id="option">
+                    <option value="Yes">
+                    <option value="No">
+                </datalist>
+            </div>
+            <input type="submit">
+        </form>
+    </body>
+</html>

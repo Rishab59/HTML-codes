@@ -1,0 +1,23 @@
+p {
+  font-size: 20px;
+  color: darkviolet;
+}
+
+ul {
+  font-size: 20px;
+  color: darkviolet;
+}
+
+div {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+div p {
+  color: red;
+}
+
+div ul {
+  color: green;
+}
+/*# sourceMappingURL=scss for list in html 2.css.map */
